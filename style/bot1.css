@@ -1,1 +1,15 @@
+.bpw-from-user {
+    border-color: var(--ocean)!important;
+    background-color: var(--ocean)!important;
+    color: white!important;
+}
 
+.bpw-from-bot {
+    background-color: darkmagenta!important;
+    border-color: darkmagenta!important;
+    color: white!important;
+}
+
+.bpw-send-button {
+    background-color: var(--ocean)!important;
+}
